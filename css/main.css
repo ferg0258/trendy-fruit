@@ -17,10 +17,10 @@ html {
 }
 
 p {
-  font-family: "Open Sans",sans-serif;
+  font-family: "Open Sans";
 }
 
-h1 {
+.watermelon h2 {
   font-family: "Rammetto One";
 }
 
@@ -28,7 +28,7 @@ h1 {
   background-color: #e97065;
 }
 
-h2 {
+.starfruit h2 {
   font-family: "Gravitas One";
 }
 
@@ -36,7 +36,7 @@ h2 {
   background-color: #fbd25e;
 }
 
-h3 {
+.persimmon h2 {
   font-family: "Comfortaa";
 }
 
