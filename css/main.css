@@ -17,7 +17,7 @@ html {
 }
 
 p {
-  font-family: sans-serif;
+  font-family: "Open Sans",sans-serif;
 }
 
 h1 {
@@ -37,9 +37,13 @@ h2 {
 }
 
 h3 {
-  font-family: "Open Sans";
+  font-family: "Comfortaa";
 }
 
 .persimmon {
   background-color: #e86033;
+}
+
+body {
+  margin: 0;
 }
