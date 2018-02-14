@@ -6,6 +6,10 @@
 
 html {
   box-sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 *, *::before, *::after {
@@ -16,10 +20,22 @@ h1 {
   font-family: "Rammetto One";
 }
 
+.watermelon {
+  background-color: #e97065;
+}
+
 h2 {
   font-family: "Gravitas One";
 }
 
+.starfruit {
+  background-color: #fbd25e;
+}
+
 h3 {
   font-family: "Open Sans";
+}
+
+.persimmon {
+  background-color: #e86033;
 }
