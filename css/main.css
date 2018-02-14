@@ -16,6 +16,10 @@ html {
   box-sizing: inherit;
 }
 
+p {
+  font-family: sans-serif;
+}
+
 h1 {
   font-family: "Rammetto One";
 }
